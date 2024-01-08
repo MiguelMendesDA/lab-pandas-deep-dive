@@ -1,4 +1,4 @@
-﻿CREATE SCHEMA `apple`;
+CREATE SCHEMA `apple`;
 
 USE `apple`;
 
